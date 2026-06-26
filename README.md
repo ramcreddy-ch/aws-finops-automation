@@ -266,7 +266,7 @@ All automation follows the **principle of least privilege**:
 <div align="center">
 
 *"The cloud doesn't make you poor — ignorance of your cloud does."*
-**— Ramchandra Chintala, Principal FinOps Architect**
+**— Ramchandra Chintala, Principal Architect**
 
 ⭐ **Star this repo if it saved you money** · 🍴 **Fork it to customize for your org**
 
